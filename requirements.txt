@@ -6,3 +6,5 @@ RATIONALE
 FITNESS CRITEREA
 HISTORY
 VOLATILTY
+i
+alternate version in test file
