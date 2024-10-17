@@ -1,0 +1,13 @@
+This file purpose is a pending space for ideas before they become requirements.
+
+FORMATING : 
+
+-IDEA, justification.
+If the idea is approved, put it in the APPROVED section. otherwise if it is still being deceided, put it in the PENDING. If it is deceided against, in the DISAPPROVED section.
+
+APPROVED :
+
+PENDING :
+- The website should use search algorithms for the games inside of it to allow for searching incase of a large game catalog.
+
+DISAPPROVED :
