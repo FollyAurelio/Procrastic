@@ -3,22 +3,23 @@ The following format shall be utilized:
 
 ID) 
 -DESCRIPTION:
-
+Brief description on WHAT the software must contain, without describing how to do it.
+This must contain a MoSCoW word (MUST, SHOULD, COULD, WONT).
 
 -RATIONALE:
-
+Why the software must do what is described in the description.
 
 -FITNESS CRITEREA:
-
+The method used for testing if the requirement has been fullfilled.
 
 -HISTORY:
-
+The date of the changes made to the requirment.
 
 -VOLATILTY:
-
+The likelyhood of the requirement changing over time.
 
 -PROGRESS:
-
+The progess of the requirement on its road to completion.
 
 
 1)
