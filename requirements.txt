@@ -65,7 +65,7 @@ Nothing is preventing this requirement from being fullfilled.
 
 2) 
 -DESCRIPTION:
-The software MUST allow for a variety of games to be played.
+The software MUST allow for a variety of games to be played in its base state.
 
 -RATIONALE:
 This will make the website more fun and it will help captivate users.
@@ -85,7 +85,7 @@ No games have been made so far.
 
 3) 
 -DESCRIPTION:
-The website COULD have a recognizable colour palette. This colour palette SHOULD be appealing.
+The website COULD have a recognizable and appealing colour palette. 
 
 -RATIONALE:
 Having a colour palette helps users build an association with the website. Improving marketability and prompting ffuture visits.
@@ -143,7 +143,7 @@ The tests to check this have yet to be run.
 
 6) 
 -DESCRIPTION:
-Each game MUST have a how to play section. 
+Each game SHOULD have a how to play section. 
 
 -RATIONALE:
 This allows the players to learn the controls of the game in a streamlined manner.
@@ -162,7 +162,7 @@ None of the games how to play sections have been elaborated yet.
 
 7) 
 -DESCRIPTION:
-The Games COULD inform the players how to play as a part of the website.
+The Games SHOULD inform the players how to play as a part of the website.
 
 -RATIONALE:
 This integrates well with the chosen game hosting format and allows for easy modification and maintence without diminishing the user experience.
@@ -181,60 +181,60 @@ The how to play section haven't been elaborated yet.
 
 8) 
 -DESCRIPTION:
-
+The website SHOULD have a navigation bar.
 
 -RATIONALE:
-
+This would facilitate navigation between different games on the website.
 
 -FITNESS CRITEREA:
-
+The navigation and functionality of the navigation bar would be targeted during testing.
 
 -HISTORY:
-
+Added on 17/10/24.
 
 -VOLATILTY:
-
+Possible
 
 -PROGRESS:
-
+The website has not been elaborated yet.
 
 9) 
 -DESCRIPTION:
-
+It MUST be easy to add games to the website.
 
 -RATIONALE:
-
+This is the main functionality of a flash games website.
 
 -FITNESS CRITEREA:
-
+The time it should take to add an already existing game must be minimal. Test shall be run with developpers and itshould take them less than an hour to add a game.
 
 -HISTORY:
-
+Added on 17/10/24.
 
 -VOLATILTY:
-
+Unlikely.
 
 -PROGRESS:
+The game extension code hasn't been created yet.
 
-
-5) 
+10) 
 -DESCRIPTION:
-
+Each game COULD run at a minimunm of 30fps.
 
 -RATIONALE:
-
+This ensures a smooth enough playing experience for the end users.
 
 -FITNESS CRITEREA:
-
+Performance tests shall be run in which large amounts of objects will be generated in order to see the limits of performance.
 
 -HISTORY:
-
+Added on 17/10/24.
 
 -VOLATILTY:
-
+Unlikely
 
 -PROGRESS:
-
+No games currently exist.
 
 
 
