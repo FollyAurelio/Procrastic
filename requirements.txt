@@ -22,6 +22,27 @@ The likelyhood of the requirement changing over time.
 The progess of the requirement on its road to completion.
 
 
+TEMPLATE
+
+ID) 
+-DESCRIPTION:
+
+
+-RATIONALE:
+
+
+-FITNESS CRITEREA:
+
+
+-HISTORY:
+
+
+-VOLATILTY:
+
+
+-PROGRESS:
+
+
 1)
 -DESCRIPTION:
 The software MUST be built using base HTML, CSS, and Javascript.
@@ -33,7 +54,7 @@ This will be a good learning experience.
 The software will be checked to see if the requirement has been fullfilled.
 
 -HISTORY:
-Added on the 17/10.
+Added on the 17/10/24.
 
 -VOLATILTY:
 Unlikely.
@@ -43,6 +64,122 @@ Nothing is preventing this requirement from being fullfilled.
 
 
 2) 
+-DESCRIPTION:
+The software MUST allow for a variety of games to be played.
+
+-RATIONALE:
+This will make the website more fun and it will help captivate users.
+
+-FITNESS CRITEREA:
+The number of games must exceed 5.
+
+-HISTORY:
+Added on 10/17/24.
+
+-VOLATILTY:
+Unlikely.
+
+-PROGRESS:
+No games have been made so far.
+
+
+3) 
+-DESCRIPTION:
+The website COULD have a recognizable colour palette. This colour palette SHOULD be appealing.
+
+-RATIONALE:
+Having a colour palette helps users build an association with the website. Improving marketability and prompting ffuture visits.
+
+-FITNESS CRITEREA:
+The appeal of the colour palette will be tested against existing ones, it will be reviewed by artists and analysedby a colour palette analyser.
+
+-HISTORY:
+Added on 17/10/24.
+
+-VOLATILTY:
+Possible.
+
+-PROGRESS:
+Colour palette has yet to be decided.
+
+
+4) 
+-DESCRIPTION:
+The games MUST run inside of a properly sized window on the webpage. 
+
+-RATIONALE:
+This is required as otherwise the games would take up too much of the screen.
+
+-FITNESS CRITEREA:
+The sizing of the window will be tested and polled by testers for eye strain.
+
+-HISTORY:
+Added on 17/10/24.
+
+-VOLATILTY:
+Unlikely.
+
+-PROGRESS:
+The size of screen has yet to be deceided.
+
+5) 
+-DESCRIPTION:
+The website WONT be availible on mobile phone.
+
+-RATIONALE:
+The transfers required to make the games playable on mobile would make the games unplayable.
+
+-FITNESS CRITEREA:
+The website will be tested on mobile. It should prohibit the games on any mobile device.
+
+-HISTORY:
+Added on 17/10/24.
+
+-VOLATILTY:
+Unlikely.
+
+-PROGRESS:
+The tests to check this have yet to be run.
+
+6) 
+-DESCRIPTION:
+Each game MUST have a how to play section. 
+
+-RATIONALE:
+This allows the players to learn the controls of the game in a streamlined manner.
+
+-FITNESS CRITEREA:
+Each game shall be checked in order to discern the presence of a how to play section. 
+
+-HISTORY:
+Added on 17/10/24.
+
+-VOLATILTY:
+Possible
+
+-PROGRESS:
+None of the games how to play sections have been elaborated yet.
+
+7) 
+-DESCRIPTION:
+The Games COULD inform the players how to play as a part of the website.
+
+-RATIONALE:
+This integrates well with the chosen game hosting format and allows for easy modification and maintence without diminishing the user experience.
+
+-FITNESS CRITEREA:
+The presence of the how to play section inside the website be checked.
+
+-HISTORY:
+Added on 17/10/24
+
+-VOLATILTY:
+Possible
+
+-PROGRESS:
+The how to play section haven't been elaborated yet.
+
+8) 
 -DESCRIPTION:
 
 
@@ -59,5 +196,49 @@ Nothing is preventing this requirement from being fullfilled.
 
 
 -PROGRESS:
+
+
+9) 
+-DESCRIPTION:
+
+
+-RATIONALE:
+
+
+-FITNESS CRITEREA:
+
+
+-HISTORY:
+
+
+-VOLATILTY:
+
+
+-PROGRESS:
+
+
+5) 
+-DESCRIPTION:
+
+
+-RATIONALE:
+
+
+-FITNESS CRITEREA:
+
+
+-HISTORY:
+
+
+-VOLATILTY:
+
+
+-PROGRESS:
+
+
+
+
+
+
 
 
