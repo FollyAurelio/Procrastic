@@ -1,4 +1,13 @@
--R means that the requirements.txt file has been modified.
--C means that the source code has been modified.
--N means that a new requirement or source code file was added (ex : -NR or -NC).
+Git commit messages should be formatted as follows :
+
+VERB + CHANGES + LOCATION + (#ID)
+
+ex : Added requirements 1,2 and 3 (#17)
+
+If the commit message has the word "and" , or the like inside of it, it means that it probably isn't a very good commit!
+Try to decouple your commit content to ensure this doesn't happen.
+
+ex : if you create a new file and changed the content of another file, make these two seperate commits instead of commiting them at the same time. (Use git add)
+
+Creating new branches prior to a commit isn't necessary but is useful for difficult-to-integrate features.
 
