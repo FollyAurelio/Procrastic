@@ -6,6 +6,4 @@ RATIONALE
 FITNESS CRITEREA
 HISTORY
 VOLATILTY
-i
-alternate version in test file
-the lazy dog
+PROGRESS
