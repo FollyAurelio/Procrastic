@@ -1,9 +1,62 @@
 This document lists the requirements for the project procrastic.
 The following format shall be utilized:
-#ID (non decimal)
-DESCRIPTION 
-RATIONALE
-FITNESS CRITEREA
-HISTORY
-VOLATILTY
-PROGRESS
+
+ID) 
+-DESCRIPTION:
+
+
+-RATIONALE:
+
+
+-FITNESS CRITEREA:
+
+
+-HISTORY:
+
+
+-VOLATILTY:
+
+
+-PROGRESS:
+
+
+
+1)
+-DESCRIPTION:
+The software MUST be built using base HTML, CSS, and Javascript.
+
+-RATIONALE:
+This will be a good learning experience.
+
+-FITNESS CRITEREA:
+The software will be checked to see if the requirement has been fullfilled.
+
+-HISTORY:
+Added on the 17/10.
+
+-VOLATILTY:
+Unlikely.
+
+-PROGRESS:
+Nothing is preventing this requirement from being fullfilled.
+
+
+2) 
+-DESCRIPTION:
+
+
+-RATIONALE:
+
+
+-FITNESS CRITEREA:
+
+
+-HISTORY:
+
+
+-VOLATILTY:
+
+
+-PROGRESS:
+
+

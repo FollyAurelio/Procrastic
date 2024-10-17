@@ -1,0 +1,4 @@
+-R means that the requirements.txt file has been modified.
+-C means that the source code has been modified.
+-N means that a new requirement or source code file was added (ex : -NR or -NC).
+
