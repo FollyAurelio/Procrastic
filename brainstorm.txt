@@ -7,15 +7,17 @@ If the idea is approved, put it in the APPROVED section. otherwise if it is stil
 
 APPROVED :
 
+-Snake.
 
 PENDING :
 - The website should use search algorithms for the games inside of it to allow for searching incase of a large game catalog.
-snake.
-cards.
-tic-tac-toe.
-tic-tac-toe.
-2D racing game.
-platformer.
-shoot-em-up.
-bullet hell.
+-Cards.
+-Tic-tac-toe.
+-2D racing game top down.
+-Platformer.
+-Shoot-em-up.
+-Bullet hell.
+-Wii Tanks
+-Tetris
+
 DISAPPROVED :
