@@ -237,6 +237,64 @@ Unlikely
 No games currently exist.
 
 
+11) 
+-DESCRIPTION:
+The website MUST have a semi-old internet asthetic.
+
+-RATIONALE:
+This just looks and feels better.
+
+-FITNESS CRITEREA:
+The website shall be cross compared with other old looking internet websites.
+
+-HISTORY:
+Added on 19/10/24 
+
+-VOLATILTY:
+Unlikely.
+
+-PROGRESS:
+The website hasn't been made yet.
+
+
+12) 
+-DESCRIPTION:
+The website COULD have smooth-fade in transition between each game.
+
+-RATIONALE:
+This makes the website look a bit better. 
+
+-FITNESS CRITEREA:
+The presence of these transition shall be checked.
+
+-HISTORY:
+Added on the 19/10/24.
+
+-VOLATILTY:
+Possible.
+
+-PROGRESS:
+The website hasn't been made yet.
+
+
+13) 
+-DESCRIPTION:
+
+
+-RATIONALE:
+
+
+-FITNESS CRITEREA:
+
+
+-HISTORY:
+
+
+-VOLATILTY:
+
+
+-PROGRESS:
+
 
 
 
