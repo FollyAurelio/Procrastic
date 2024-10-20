@@ -1,4 +1,4 @@
-This file purpose is a pending space for ideas before they become requirements.
+This document is for logging ideas during developpement.
 
 FORMATING : 
 
@@ -7,11 +7,25 @@ If the idea is approved, put it in the APPROVED section. otherwise if it is stil
 
 APPROVED :
 
+-Built using base HTML, CSS, and Javascript.
+-Have a recognizable and appealing colour palette. 
+-Run inside of a properly sized window on the webpage. 
+-Wont be availible on mobile phone.
+-Have a navigation bar.
+-It must be easy to add games to the website.
+-Each game should run at a minimunm of 30fps.
+-The website must have a semi-old internet asthetic.
+-A portal option that allow you to add games.
 -Snake.
+-website containing a login feature that enables users to make accounts and thus acces more content on each game.
+-Games being presented each in their own independent window
+-Rather than games having controls underneath, the games should just have a brief description.
+-Games could also have comment sections and review scores (likes, dislikes).
 
 PENDING :
 - The website should use search algorithms for the games inside of it to allow for searching incase of a large game catalog.
 -Cards.
+-Poker.
 -Tic-tac-toe.
 -2D racing game top down.
 -Platformer.
@@ -19,5 +33,10 @@ PENDING :
 -Bullet hell.
 -Wii Tanks
 -Tetris
+-Some kind of underlying factor tying it all together?
+that previews the game when you hover over it.
+-Games could also have tags.
+-The each game should be accessed by small self contained windows with brief preview images.
 
 DISAPPROVED :
+The website COULD have smooth-fade in transition between each game.

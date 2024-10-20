@@ -1,3 +1,6 @@
+NOTE : THIS DOCUMENT HAS BEEN DEMED NON USEFUL AND HAS ONLY BEEN KEEP FOR ARCHIVE PURPOSES.
+LOOK TO brainstorm.txt FOR IDEA LOG.
+
 This document lists the requirements for the project procrastic.
 The following format shall be utilized:
 
@@ -162,22 +165,23 @@ None of the games how to play sections have been elaborated yet.
 
 7) 
 -DESCRIPTION:
-The Games SHOULD inform the players how to play as a part of the website.
+The Games WONT inform the players how to play as a part of the website.
 
 -RATIONALE:
-This integrates well with the chosen game hosting format and allows for easy modification and maintence without diminishing the user experience.
+This would integrate well with the chosen game hosting format and allows for easy modification and maintence without diminishing the user experience. However, this is entirely up to how the game creator decides to structure their game page.
+
 
 -FITNESS CRITEREA:
-The presence of the how to play section inside the website be checked.
+
 
 -HISTORY:
-Added on 17/10/24
+Added on 17/10/24. Modified on the 20/10/24.
 
 -VOLATILTY:
 Possible
 
 -PROGRESS:
-The how to play section haven't been elaborated yet.
+
 
 8) 
 -DESCRIPTION:
@@ -279,6 +283,46 @@ The website hasn't been made yet.
 
 13) 
 -DESCRIPTION:
+The each game SHOULD be accessed by small self contained windows with brief preview images.
+
+-RATIONALE:
+This allows for convinient previewing of the games for users and allow a lot of games to be accessed on one page.
+
+-FITNESS CRITEREA:
+The presence of this shall be checked. Along with the functionality of each window.
+
+-HISTORY:
+Added on the 20/10/24.
+
+-VOLATILTY:
+Unlikely.
+
+-PROGRESS:
+The website hasn't been elaborated yet.
+
+
+14) 
+-DESCRIPTION:
+The website should have a portal page allowing you too add games
+
+-RATIONALE:
+This allows games to easily be added to the website.
+
+-FITNESS CRITEREA:
+The navbar should have a portal button that takes you too the portal. The portals functionality will be tested through test that continually add games to the website.
+
+HISTORY:
+20/10/24.
+
+-VOLATILTY:
+Unlikely.
+
+-PROGRESS:
+The website hasn't been made yet.
+
+
+15) 
+-DESCRIPTION:
 
 
 -RATIONALE:
@@ -296,6 +340,42 @@ The website hasn't been made yet.
 -PROGRESS:
 
 
+16) 
+-DESCRIPTION:
+
+
+-RATIONALE:
+
+
+-FITNESS CRITEREA:
+
+
+-HISTORY:
+
+
+-VOLATILTY:
+
+
+-PROGRESS:
+
+
+17) 
+-DESCRIPTION:
+
+
+-RATIONALE:
+
+
+-FITNESS CRITEREA:
+
+
+-HISTORY:
+
+
+-VOLATILTY:
+
+
+-PROGRESS:
 
 
 
